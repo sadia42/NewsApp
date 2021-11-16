@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this file is in desktop
+=======
+this file is in github
+>>>>>>> 283f5bac53c10ed0a27bfcab9ea625d0123d4c29
+
+new text added 
+conflict resolved
